@@ -2,7 +2,7 @@
 
 This is the official repository for the September Xamarin Challenge. More details about the announcement can be found on the [blog post.](https://medium.com/@claudiosanchez/the-september-xamarin-best-practices-challenge-819e098c8314)
 
-Below is a Work-in-progress Table of Contents (ToC). Feel free to (1) submit a Pull Request with changes of your own to the ToC, or reach out to me via Twitter (@ClaudioASanchez), if you are not sure. 
+Below is a **Work-in-progress** Table of Contents (ToC). Feel free to (1) submit a Pull Request with changes of your own to the ToC, or (2) reach out to me via Twitter (@ClaudioASanchez), if you are not sure. 
 
 ## Table of Contents
 
