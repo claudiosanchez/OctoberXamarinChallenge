@@ -70,18 +70,18 @@ Once reviewed and approved (by labeling it approved) we will update the Table of
 |Day| Article | Author |
 |--|--|--|
 |1|||
-|2|[Release made easy with Appcenter](#2)|Raul Montero|
+|2|[Release made easy with Appcenter](https://github.com/claudiosanchez/SeptemberXamarinChallenge/issues/2)|Raul Montero|
 |3|||
-|4|[Please connect to my API: Using Refit to consume REST services on Xamarin Forms](#4)|Carlos Campos|
+|4|[Please connect to my API: Using Refit to consume REST services on Xamarin Forms](https://github.com/claudiosanchez/SeptemberXamarinChallenge/issues/4)|Carlos Campos|
 |5|||
-|6|[Crashing gracefully and reporting like a pro with AppCenter](#3)|Enmanuel Toribio|
+|6|[Crashing gracefully and reporting like a pro with AppCenter](https://github.com/claudiosanchez/SeptemberXamarinChallenge/issues/3)|Enmanuel Toribio|
 |7|||
 |8|||
-|9|[Monitor your apps in the wild with Azure Application Insights](#5)|Yhorby Matias|
-|10|[Xamarin.Forms Design Time Data Tips & Tricks](#7)|James Montemagno|
+|9|[Monitor your apps in the wild with Azure Application Insights](https://github.com/claudiosanchez/SeptemberXamarinChallenge/issues/5)|Yhorby Matias|
+|10|[Xamarin.Forms Design Time Data Tips & Tricks](https://github.com/claudiosanchez/SeptemberXamarinChallenge/issues/7)|James Montemagno|
 |11|||
 |12|||
-|13|||
+|13|[Getting Started with Microsoft App Center](https://github.com/claudiosanchez/SeptemberXamarinChallenge/issues/9)|Trevor Tirrell|
 |14|||
 |15|||
 |16|||
@@ -95,10 +95,10 @@ Once reviewed and approved (by labeling it approved) we will update the Table of
 |24|||
 |25|||
 |26|||
-|27|||
+|27|[Authentication using Microsoft App Center](https://github.com/claudiosanchez/SeptemberXamarinChallenge/issues/10)|Trevor Tirrell|
 |28|||
 |29|||
-|30|[Roll out features with the click of a button with Feature Flags](#1)|Claudio Sanchez|
+|30|[Roll out features with the click of a button with Feature Flags](https://github.com/claudiosanchez/SeptemberXamarinChallenge/issues/1)|Claudio Sanchez|
 
 
 
