@@ -78,7 +78,7 @@ Once reviewed and approved (by labeling it approved) we will update the Table of
 |7|||
 |8|||
 |9|[Monitor your apps in the wild with Azure Application Insights](#5)|Yhorby Matias|
-|10|[Xamarin.Forms Design Time Data Tips & Tricks]|(#7)|James Montemagno|
+|10|[Xamarin.Forms Design Time Data Tips & Tricks](#7)|James Montemagno|
 |11|||
 |12|||
 |13|||
