@@ -9,6 +9,31 @@ Below is a **Work-in-progress** Table of Contents (ToC). Feel free to (1) submit
 * Setting up your project
     * Anatomy of the Visual Studio Solution
 
+* UI
+    * Styling
+    * Controls
+    * Theming
+    * How to 
+
+* MVVM Frameworks
+
+* Validation
+
+
+* Web Services
+    * Consuming Web services
+
+* Data
+    * Using local data in a mobile app
+    * Offline Data
+        * Caching
+        * Syncronization with backend
+
+* Using Phone Capabilities
+    * GPS/Geolocation
+
+* Push Notifications
+
 * Continuous Integration/Continuous Delivery
     * Getting Started wit Microsoft App Center 
     * Distributing Apps with App Center
