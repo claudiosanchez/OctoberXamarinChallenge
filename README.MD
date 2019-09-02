@@ -1,4 +1,4 @@
-#The September Xamarin Best Practices Challenge
+# The September Xamarin Best Practices Challenge
 
 This is the official repository for the September Xamarin Challenge. More details about the announcement can be found on the [blog post.](https://medium.com/@claudiosanchez/the-september-xamarin-best-practices-challenge-819e098c8314)
 
@@ -27,7 +27,7 @@ Below is a **Work-in-progress** Table of Contents (ToC). Feel free to (1) submit
     * Using local data in a mobile app
     * Offline Data
         * Caching
-        * Syncronization with backend
+        * Synchronization with backend
 
 * Using Phone Capabilities
     * GPS/Geolocation
