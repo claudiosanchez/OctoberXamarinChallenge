@@ -70,10 +70,10 @@ Once reviewed and approved (by labeling it approved) we will update the Table of
 |Day| Article | Author |
 |--|--|--|
 |1|||
-|2|[Release made easy with Appcenter](https://github.com/claudiosanchez/SeptemberXamarinChallenge/issues/2)|Raul Montero|
+|2|||
 |3|||
 |4|[Please connect to my API: Using Refit to consume REST services on Xamarin Forms](https://github.com/claudiosanchez/SeptemberXamarinChallenge/issues/4)|Carlos Campos|
-|5|||
+|5|[Release made easy with Appcenter](https://github.com/claudiosanchez/SeptemberXamarinChallenge/issues/2)|Raul Montero|
 |6|[Crashing gracefully and reporting like a pro with AppCenter](https://github.com/claudiosanchez/SeptemberXamarinChallenge/issues/3)|Enmanuel Toribio|
 |7|||
 |8|||
