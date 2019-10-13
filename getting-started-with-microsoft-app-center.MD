@@ -73,9 +73,9 @@ The Diagnostics menu item should not display any information yet as long as the 
 
 ## Useful Links
 
-[Microsoft App Center](https://appcenter.ms/)
-[Getting Started with Xamarin](https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/xamarin) documentation
+- [Microsoft App Center](https://appcenter.ms/)
+- [Getting Started with Xamarin](https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/xamarin) documentation
 
-[YouTube](https://www.youtube.com/user/ttirrell)
-[Twitter](http://twitter.com/TrevorTirrell)
-[GitHub](http://github.com/ttirrell)
+- [YouTube](https://www.youtube.com/user/ttirrell)
+- [Twitter](http://twitter.com/TrevorTirrell)
+- [GitHub](http://github.com/ttirrell)
