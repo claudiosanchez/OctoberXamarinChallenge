@@ -14,8 +14,13 @@ Below is a **Work-in-progress** Table of Contents (ToC). Feel free to (1) submit
     * Controls
     * Theming
     * How to 
+    * [Design Time Data](https://montemagno.com/xamarin-forms-design-time-data-tips-best-practices/)
 
 * MVVM Frameworks
+    * ReactiveUI
+    * FreshMVVM
+    * Prism
+    * MVVMCross
 
 * Validation
 
@@ -35,19 +40,21 @@ Below is a **Work-in-progress** Table of Contents (ToC). Feel free to (1) submit
 * Push Notifications
 
 * Continuous Integration/Continuous Delivery
-    * Getting Started wit Microsoft App Center 
-    * Distributing Apps with App Center
-    * App Store publication
+    * [Getting Started wit Microsoft App Center](getting-started-with-microsoft-app-center.MD)
+    * [Distributing Apps with App Center](releases-made-easy-with-appcenter.md)
+    * [App Store publication](https://channel9.msdn.com/Shows/On-NET/Continuous-Delivery--Release-Management--DevOps-for-Mobile)
     * Beta Testing via App Stores 
 
 * Advanced Topics
-    * Feature Flags
+    * [Implementing Feature Flags in your Xamarin App](https://medium.com/@claudiosanchez/instantly-releasing-features-in-a-world-that-never-sleeps-using-feature-flags-e0e9e6c56d26)
+    * [Authentication using Microsoft App Center](authentication-using-microsoft-app-center.MD)|[Trevor Tirrell](https://twitter.com/TrevorTirrell)
+    * [Crash Reporting via App Center](crashing-like-a-pro-app-center.md)
 
 * Testing 
-    * UI Testing Basics 
+    * UI Testing Basics
     * App Center Test
     * Advanced Topics
-        * Best Practices for UI Testing of Xamarin-based Apps
+        * [Best Practices for Automated UI Testing of Xamarin-based Apps](https://channel9.msdn.com/Shows/XamarinShow/Best-Practices-for-User-Interface-Automation)
 
 * Monitoring
     * App Analytics
@@ -72,33 +79,33 @@ Once reviewed and approved (by labeling it approved) we will update the Table of
 |1|||
 |2|||
 |3|||
-|4|[Please connect to my API: Using Refit to consume REST services on Xamarin Forms](https://github.com/claudiosanchez/OctoberXamarinChallenge/issues/4)|Carlos Campos|
-|5|[Release made easy with Appcenter](https://github.com/claudiosanchez/OctoberXamarinChallenge/issues/2)|Raul Montero|
-|6|[Crashing gracefully and reporting like a pro with AppCenter](https://github.com/claudiosanchez/OctoberXamarinChallenge/issues/3)|Enmanuel Toribio|
+|4|[Signing & Versioning iOS & Android Apps](https://channel9.msdn.com/Shows/On-NET/Signing--Versioning-iOS--Android-Apps---DevOps-for-Mobile)| [James Montemagno](https://twitter.com/JamesMontemagno) and [Abel Wang](https://twitter.com/AbelSquidHead)|
+|5|[Release made easy with Appcenter](https://github.com/claudiosanchez/OctoberXamarinChallenge/blob/master/releases-made-easy-with-appcenter.md)|Raul Montero|
+|6|[Crashing gracefully and reporting like a pro with AppCenter](https://github.com/claudiosanchez/OctoberXamarinChallenge/blob/master/crashing-like-a-pro-app-center.md)|Enmanuel Toribio|
 |7|||
 |8|||
-|9|[Monitor your apps in the wild with Azure Application Insights](https://github.com/claudiosanchez/OctoberXamarinChallenge/issues/5)|Yhorby Matias|
-|10|[Xamarin.Forms Design Time Data Tips & Tricks](https://github.com/claudiosanchez/OctoberXamarinChallenge/issues/7)|James Montemagno|
+|9|[Start analyzing your mobile app with App Center and Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/learn/mobile-center-quickstart)|via Microsoft Docs|
+|10|[Xamarin.Forms Design Time Data Tips & Tricks](https://montemagno.com/xamarin-forms-design-time-data-tips-best-practices/)|James Montemagno|
 |11|||
 |12|||
-|13|[Getting Started with Microsoft App Center](https://github.com/claudiosanchez/OctoberXamarinChallenge/issues/9)|Trevor Tirrell|
+|13|[Getting Started with Microsoft App Center](https://github.com/claudiosanchez/OctoberXamarinChallenge/blob/master/getting-started-with-microsoft-app-center.MD)|Trevor Tirrell|
 |14|||
 |15|||
 |16|||
 |17|||
 |18|||
 |19|||
-|20|||
+|20|[Best Practices for Automated UI Testing of Xamarin-based Apps](https://channel9.msdn.com/Shows/XamarinShow/Best-Practices-for-User-Interface-Automation)|[Sweeky Satpathy](https://twitter.com/SweekritiS)|
 |21|||
 |22|||
 |23|||
 |24|||
-|25|||
+|25|[App Store publication via App Center](https://channel9.msdn.com/Shows/On-NET/Continuous-Delivery--Release-Management--DevOps-for-Mobile)|[Abel Wang](https://twitter.com/AbelSquidHead)|
 |26|||
-|27|[Authentication using Microsoft App Center](https://github.com/claudiosanchez/OctoberXamarinChallenge/issues/10)|Trevor Tirrell|
+|27|[Authentication using Microsoft App Center](authentication-using-microsoft-app-center.MD)|[Trevor Tirrell](https://twitter.com/TrevorTirrell)|
 |28|||
-|29|||
-|30|[Roll out features with the click of a button with Feature Flags](https://github.com/claudiosanchez/OctoberXamarinChallenge/issues/1)|Claudio Sanchez|
+|29|[Unit testing: The way I test my ViewModels](https://github.com/claudiosanchez/OctoberXamarinChallenge/issues/13)|Miguel Angel Martin Hrdez|
+|30|[Roll out features with the click of a button with Feature Flags](https://medium.com/@claudiosanchez/instantly-releasing-features-in-a-world-that-never-sleeps-using-feature-flags-e0e9e6c56d26)|[Claudio Sanchez](https://twitter.com/ClaudioASanchez)|
 
 
 
