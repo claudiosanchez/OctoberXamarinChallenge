@@ -98,7 +98,7 @@ Once reviewed and approved (by labeling it approved) we will update the Table of
 |20|[Best Practices for Automated UI Testing of Xamarin-based Apps](https://channel9.msdn.com/Shows/XamarinShow/Best-Practices-for-User-Interface-Automation)|[Sweeky Satpathy](https://twitter.com/SweekritiS)|
 |21|||
 |22|||
-|23|||
+|23|[Keep your Xamarin app up to date with SignalR](https://mallibone.com/post/xamarin-signalr)|[Mark Allibone](https://twitter.com/mallibone)|
 |24|||
 |25|[App Store publication via App Center](https://channel9.msdn.com/Shows/On-NET/Continuous-Delivery--Release-Management--DevOps-for-Mobile)|[Abel Wang](https://twitter.com/AbelSquidHead)|
 |26|||
