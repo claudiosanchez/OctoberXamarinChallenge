@@ -1,8 +1,11 @@
-# Unit testing, the way I test my ViewModels
+# October Xamarin Challenge
 
-## ViewModel unit testing
+## Unit testing, the way I test my ViewModels
 
-If you're a MacOS developer, I wrote some posts related with the tooling and the code coverage. Please, check them: [Unit testing tools using your MacOS terminal](https://mookiefumi.com/2019-10-20-unit-testing-tools-using-your-MacOS-terminal) and [Unit testing tools using VSCode](https://mookiefumi.com/2019-10-23-unit-testing-tools-using-your-vscode).
+If you're a MacOS developer, I wrote some related posts with the tooling and the code coverage. Please, check them because maybe they are useful.
+
+* [Unit testing tools using your MacOS terminal](https://mookiefumi.com/2019-10-20-unit-testing-tools-using-your-MacOS-terminal)
+* [Unit testing tools using VSCode](https://mookiefumi.com/2019-10-23-unit-testing-tools-using-your-vscode).
 
 > This article is part of the October Xamarin Best Practices Challenge, you can read about it in [Github of Claudio Sanchez](https://github.com/claudiosanchez/OctoberXamarinChallenge).
 
@@ -10,7 +13,7 @@ If you're a MacOS developer, I wrote some posts related with the tooling and the
 
 Nowadays the unit test is something required and we shouldn't negotiated if we have to do it or not, we've been applying new design patterns in order to test (*in this case*) our ViewModels, so we don't have more excuses. Are you testing your MVVM components like your ViewModels?
 
-Everytime I speak about unit testing, I remember the acronym F.I.R.S.T. Have you ever read something about it?
+Everytime I speak about unit testing, I remember the acronym **F.I.R.S.T**. It should be the key of every unit test. Have you ever read something about it?
 
 * **F**. Our unit test should be fast.
 * **I**. Our unit test should be isolated.
@@ -20,9 +23,9 @@ Everytime I speak about unit testing, I remember the acronym F.I.R.S.T. Have you
 
 Please, check [this link](https://github.com/ghsukumar/SFDC_Best_Practices/wiki/F.I.R.S.T-Principles-of-Unit-Testing) to read more about F.I.R.S.T.
 
-I am going to use a LoginPage example with some use cases, it's a simple one (enough, i hope) and it will help us to show you how you can do it. This is our LoginPage.
-
 ### The example
+
+I am going to use a LoginPage example with some use cases, it's a simple one (enough, i hope) and it will help us to show you how you can do it. This is our LoginPage.
 
 ![LoginPage](images/Screenshot2019-10-23_18.26.57.png)
 
@@ -54,9 +57,9 @@ I have in my tool belt some nuget packages that helps me to write tests but they
 
 ### Testing the use cases
 
-These are the behaviours that I want to cover with the unit test in the LoginPageViewModel, and please remember.
+These are the behaviours that I want to cover with the unit test in the LoginPageViewModel.
 
-* The login command is enable if the email and password are entered.
+* The login button is enable if the email and password are entered.
 * If the login is not successful we should advise that something went wrong.
 * If the device doesn't have internet connection we should show an alert.
 * If the login is valid the user will navigate to the main page.
@@ -65,6 +68,7 @@ These are the behaviours that I want to cover with the unit test in the LoginPag
 
 ```csharp
 [Fact]
+//I check if the LoginCommand can be executed (true)
 public void Can_Execute_LoginCommand_If_Username_And_Password_Are_Not_Empty_And_Null()
 {
     _sut.Username = "not-empty";
@@ -82,6 +86,8 @@ public void Can_Execute_LoginCommand_If_Username_And_Password_Are_Not_Empty_And_
 [InlineData("anyValue", null)]
 [InlineData("", "")]
 [InlineData(null, null)]
+//I check if the LoginCommand can be executed (false)
+//Theory/ InlineData are the way that XUnit can execute a test case with different parameters
 public void Cant_Execute_LoginCommand_If_Username_Or_Password_Are_Null_Or_Empty(string username, string password)
 {
     _sut.Username = username;
