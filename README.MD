@@ -98,13 +98,13 @@ Once reviewed and approved (by labeling it approved) we will update the Table of
 |20|[Best Practices for Automated UI Testing of Xamarin-based Apps](https://channel9.msdn.com/Shows/XamarinShow/Best-Practices-for-User-Interface-Automation)|[Sweeky Satpathy](https://twitter.com/SweekritiS)|
 |21|||
 |22|||
-|23|||
+|23|[Keep your Xamarin app up to date with SignalR](https://mallibone.com/post/xamarin-signalr)|[Mark Allibone](https://twitter.com/mallibone)|
 |24|||
 |25|[App Store publication via App Center](https://channel9.msdn.com/Shows/On-NET/Continuous-Delivery--Release-Management--DevOps-for-Mobile)|[Abel Wang](https://twitter.com/AbelSquidHead)|
 |26|||
 |27|[Authentication using Microsoft App Center](authentication-using-microsoft-app-center.MD)|[Trevor Tirrell](https://twitter.com/TrevorTirrell)|
 |28|||
-|29|[Unit testing: The way I test my ViewModels](https://github.com/claudiosanchez/OctoberXamarinChallenge/issues/13)|Miguel Angel Martin Hrdez|
+|29|[Unit testing: The way I test my ViewModels](https://mookiefumi.com/2019-10-29-unit-testing-the-way-i-test-my-viewmodels)|[Miguel Angel Martin Hrdez](https://twitter.com/MookieFumi)|
 |30|[Roll out features with the click of a button with Feature Flags](https://medium.com/@claudiosanchez/instantly-releasing-features-in-a-world-that-never-sleeps-using-feature-flags-e0e9e6c56d26)|[Claudio Sanchez](https://twitter.com/ClaudioASanchez)|
 
 
