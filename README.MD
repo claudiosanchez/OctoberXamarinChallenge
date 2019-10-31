@@ -57,7 +57,7 @@ Below is a **Work-in-progress** Table of Contents (ToC). Feel free to (1) submit
         * [Best Practices for Automated UI Testing of Xamarin-based Apps](https://channel9.msdn.com/Shows/XamarinShow/Best-Practices-for-User-Interface-Automation)
 
 * Monitoring
-    * [App Analytics](https://medium.com/@prototypemakers/good-analytics-practices-for-xamarin-ios-android-apps-223fcd3634f0)|[Saamer Mansoor](https://linkedin.com/in/saamerm)
+    * [App Analytics](https://medium.com/@prototypemakers/good-analytics-practices-for-xamarin-ios-android-apps-223fcd3634f0)|[Saamer Mansoor](https://linkedin.com/in/saamer)
     * Telemetry 
 
 * API Best Practices
@@ -99,7 +99,7 @@ Once reviewed and approved (by labeling it approved) we will update the Table of
 |21|||
 |22|||
 |23|[Keep your Xamarin app up to date with SignalR](https://mallibone.com/post/xamarin-signalr)|[Mark Allibone](https://twitter.com/mallibone)|
-|24|[Analytics Best Practices for iOS & Android](https://medium.com/@prototypemakers/good-analytics-practices-for-xamarin-ios-android-apps-223fcd3634f0)|[Saamer Mansoor](https://linkedin.com/in/saamerm)|
+|24|[Analytics Best Practices for iOS & Android](https://medium.com/@prototypemakers/good-analytics-practices-for-xamarin-ios-android-apps-223fcd3634f0)|[Saamer Mansoor](https://linkedin.com/in/saamer)|
 |25|[App Store publication via App Center](https://channel9.msdn.com/Shows/On-NET/Continuous-Delivery--Release-Management--DevOps-for-Mobile)|[Abel Wang](https://twitter.com/AbelSquidHead)|
 |26|||
 |27|[Authentication using Microsoft App Center](authentication-using-microsoft-app-center.MD)|[Trevor Tirrell](https://twitter.com/TrevorTirrell)|
