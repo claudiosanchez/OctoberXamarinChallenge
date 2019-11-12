@@ -15,6 +15,8 @@ Below is a **Work-in-progress** Table of Contents (ToC). Feel free to (1) submit
     * Theming
     * How to 
     * [Design Time Data](https://montemagno.com/xamarin-forms-design-time-data-tips-best-practices/)
+    * Images
+        * [Utilizing Vector images (SVG)](https://github.com/softlion/XamSvg-Samples)
 
 * MVVM Frameworks
     * ReactiveUI
